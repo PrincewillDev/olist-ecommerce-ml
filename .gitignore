@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (large raw CSVs — not tracked in git)
+datasets/raw_data/*
+!datasets/raw_data/.gitkeep
