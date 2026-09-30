@@ -1,7 +1,7 @@
 """
 Loaders for the raw Olist Brazilian E-Commerce CSVs.
 
-Each function loads exactly one CSV from datasets/raw_data as-is —
+Each function loads exactly one CSV from data/ as-is —
 no merging/joining happens here. Join logic belongs in a later,
 dedicated step once each table has been explored on its own.
 """
